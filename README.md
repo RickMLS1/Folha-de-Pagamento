@@ -21,7 +21,7 @@ O objetivo do projeto é construir um sistema de folha de pagamento. O sistema c
 
 #Funcionalidades
 
-• Adiionar um empregado 
+• Adicionar um empregado 
 
 • Remover um empregado 
 
