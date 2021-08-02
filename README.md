@@ -4,7 +4,8 @@
 
 ##
 
-IDE utilizada: Jetbrains IntelliJ
+### IDE utilizada: 
+  • Jetbrains IntelliJ
 
 ##
 
